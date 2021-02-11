@@ -226,7 +226,7 @@ button:hover {
 
 /************** CONTACT PAGE CONTAINER 1 (FORM) **********************/
 
-input {
+.containing-input input {
 	font-family: "Helvetica";
 	font-size: 16px;
 	width: 98%;
@@ -239,7 +239,7 @@ input {
 	margin-bottom: 4px;
 }
 
-textarea {
+.containing-input textarea {
 	font-family: "Helvetica";
 	font-size: 16px;
 	width: 98%;
