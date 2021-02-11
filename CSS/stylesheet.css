@@ -190,7 +190,7 @@ button:hover {
 
 /************** CONTACT PAGE CONTAINER 1 (FORM) **********************/
 
-.contact-input input {
+input {
 	font-family: "Helvetica";
 	font-size: 16px;
 	width: 98%;
@@ -203,7 +203,7 @@ button:hover {
 	margin-bottom: 4px;
 }
 
-.contact-input textarea {
+textarea {
 	font-family: "Helvetica";
 	font-size: 16px;
 	width: 98%;
