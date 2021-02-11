@@ -176,7 +176,7 @@ button:hover {
 }
 
 
-/************ CONTAINER USED IN EVERY PAGE (EXCEPT FOR CONTACT) *****************/
+/************ CONTAINER USED IN EVERY PAGE *****************/
 
 .containing {
 	margin-top: 10px;
@@ -187,46 +187,10 @@ button:hover {
 	border-radius: 10px;
 }
 
-/******************* CONTACT PAGE CONTAINERS ***********************/
-
-.contact-containerbig {
-	margin-top: 10px;
-	margin-left: 1px;
-	padding-right: 10px;
-	padding-left: 10px;
-	padding-top: 20px;
-	padding-bottom: 30px;
-	border-style: solid;
-	border-color: #be7676;
-	border-radius: 10px;
-}
-
-.contact-container1 {
-	width: 45%;
-	height: 40%;
-	position: relative;
-	margin-top: 10px;
-	margin-left: 1px;
-	padding: 20px;
-	border-style: solid;
-	border-color: #be7676;
-	border-radius: 10px;
-}
-
-.contact-container2 {
-	width: 45%;
-	position: relative;
-	margin-top: -260px;
-	margin-left: 630px;
-	padding: 20px;
-	border-style: solid;
-	border-color: #be7676;
-	border-radius: 10px;
-}
 
 /************** CONTACT PAGE CONTAINER 1 (FORM) **********************/
 
-.containing-input input {
+.contact-input input {
 	font-family: "Helvetica";
 	font-size: 16px;
 	width: 98%;
@@ -239,7 +203,7 @@ button:hover {
 	margin-bottom: 4px;
 }
 
-.containing-input textarea {
+.contact-input textarea {
 	font-family: "Helvetica";
 	font-size: 16px;
 	width: 98%;
@@ -250,13 +214,6 @@ button:hover {
 	border-radius: 5px;
 	border-style: solid;
 	border-color: #7a0b0b;
-}
-
-/*************** CONTACT PAGE CONTAINER 2 (STAY IN TOUCH) ******************/
-
-.contact-logo {
-	font-size: 20px;
-	color: #7a0b0b;
 }
 
 /******************** WORKS PAGE CONTAINER ************************/
