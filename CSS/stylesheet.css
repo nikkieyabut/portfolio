@@ -256,22 +256,22 @@ button:hover {
 
 @font-face { /***** CHIHAYA_JUN (JAPANESE CUTE HANDWRITING) ****/
 	font-family: "Chihaya_Jun";
-	src:url('../Fonts/chihaya.ttf');
+	src:url('Fonts/chihaya.ttf');
 }
 
 @font-face { /***** MONTSERRAT (SANS SERIF) ****/
 	font-family: "Montserrat";
-	src:url('../Fonts/Montserrat_semibold.otf');
+	src:url('Fonts/Montserrat_semibold.otf');
 }
 
 @font-face { /***** HELVETICA (SANS SERIF) ****/
 	font-family: "Helvetica";
-	src:url('../Fonts/helvetica.ttf');
+	src:url('Fonts/helvetica.ttf');
 }
 
 @font-face { /***** MICHLAND (SCRIPT FONT) *****/
 	font-family: "Michland";
-	src:url('../Fonts/Michland.otf');
+	src:url('Fonts/Michland.otf');
 }
 
 /******* SCROLLBAR ********/
