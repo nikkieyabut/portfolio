@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8e57052-7d65-4c93-96fb-d87919672838" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/blog/2019-05-28-first-blog-post.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/blog/2019-05-29-long-blog-post.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/blog/2021-08-01-mdx-blog-post.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/blog/2021-08-26-welcome/docusaurus-plushie-banner.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/blog/2021-08-26-welcome/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/blog/authors.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/blog/tags.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/docs/intro.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/docs/tutorial-basics/_category_.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/docs/tutorial-basics/congratulations.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/docs/tutorial-basics/create-a-blog-post.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/docs/tutorial-basics/create-a-document.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/docs/tutorial-basics/create-a-page.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/docs/tutorial-basics/deploy-your-site.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/docs/tutorial-basics/markdown-features.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/docs/tutorial-extras/_category_.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/docs/tutorial-extras/img/docsVersionDropdown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/docs/tutorial-extras/img/localeDropdown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/docs/tutorial-extras/manage-docs-versions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/docs/tutorial-extras/translate-your-site.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/docusaurus.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/sidebars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/src/components/HomepageFeatures/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/src/components/HomepageFeatures/styles.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/src/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/src/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/src/pages/index.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/src/pages/markdown-page.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/static/.nojekyll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/static/img/docusaurus-social-card.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/static/img/docusaurus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/static/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/static/img/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/static/img/undraw_docusaurus_mountain.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/static/img/undraw_docusaurus_react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-website/static/img/undraw_docusaurus_tree.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css_file/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/CV20241020_QR.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/CV_20241020.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/error.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/hk2018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/ilocos_2019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/logo1_2020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/logo2_2020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/logowhitebg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/marynicoleyabut_UXUI_resume_july2021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/marynicoleyabut_WD_resume_july2021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/marynicoleyabut_resume_march2021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/missy_2019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/sample_mockups/iflexhibit_00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/sample_mockups/iflexhibit_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/sample_mockups/iflexhibit_02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/sample_mockups/iflexhibit_03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/sample_mockups/iflexhibit_04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/sample_mockups/nikkiereads_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/sample_mockups/nikkiereads_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/sample_mockups/nikkiereads_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/sample_mockups/nikkiereads_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/sample_mockups/nikkiestreams_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/sample_mockups/nikkiestreams_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/sample_mockups/nikkiestreams_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/sample_mockups/nikkiestreams_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external_files/tanay_2020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/googlee1964f9ea73ac5d5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2pt71Vomre7cLBe2sedQtq0Y5Qd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;new-doc&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/NIKKIE/Documents/Codes/portfolio&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8e57052-7d65-4c93-96fb-d87919672838" name="Changes" comment="" />
+      <created>1733573304188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733573304188</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+</project>
